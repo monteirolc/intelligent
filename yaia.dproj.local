@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/02 13:12:32.000.686,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/02 13:49:07.000.155,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=E:\Delphi Projects\Curso Delphi\Inteligent\Inteligent.pas</Transaction>
+    <Transaction>2023/01/02 13:49:07.000.155,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=E:\Delphi Projects\Curso Delphi\Inteligent\Inteligent.dfm</Transaction>
+    <Transaction>2023/01/02 13:49:27.000.615,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=E:\Delphi Projects\Curso Delphi\Inteligent\yaia.dproj</Transaction>
+    <Transaction>2023/01/02 14:09:55.552,E:\Delphi Projects\Curso Delphi\Inteligent\Intelligent.pas=E:\Delphi Projects\Curso Delphi\Inteligent\Inteligent.pas</Transaction>
+    <Transaction>2023/01/02 14:09:55.552,E:\Delphi Projects\Curso Delphi\Inteligent\Intelligent.dfm=E:\Delphi Projects\Curso Delphi\Inteligent\Inteligent.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
